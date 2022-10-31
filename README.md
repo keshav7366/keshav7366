@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anand Keshav
-- 👀 I’m interested in Machine Learning,Deep Learning and Natural Language Processing.
+- 👀 I’m interested in Machine Learning,Deep Learning,Natural Language Processing and Computer Vision.
 - 🌱 I’m currently learning DevOps.
 - 💞️ I’m looking to collaborate on Data Driven projects and work in CI/CD pipelines.
 - 📫 You can reach me through email - "anand.keshav.bce19@itbhu.ac.in".
